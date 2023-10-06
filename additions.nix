@@ -1,0 +1,3 @@
+{ pkgs, ... }: {
+  networking.hostname = "base";
+}
